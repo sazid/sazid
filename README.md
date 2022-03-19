@@ -4,8 +4,9 @@ Blog: [https://sazid.github.io](https://sazid.github.io)
 
 Some random personal repos:
 
-- [learngrpc ~ *go, python*](https://github.com/sazid/learngrpc) - gRPC with bi-di streams, interceptors, jwt and TLS
-- [mini-redi-r ~ *rust*](https://github.com/sazid/mini-redis-rs) - a basic
+- [learngrpc ~ *go, python*](https://github.com/sazid/learngrpc) - gRPC with bi-di streams, interceptors, jwt and TLS.
+- [simplebank ~ *go*](https://github.com/sazid/simplebank) - A small implementation of a transaction service to learn about ACID properties of db, gin, sqlc, github actions and token based (paseto, jwt) auth.
+- [mini-redi-rs ~ *rust*](https://github.com/sazid/mini-redis-rs) - a basic
   implementation of the REDIS protocol (RESP).
 - [go-opentelemetry ~ *go*](https://github.com/sazid/go-opentelemetry) - Open
   Telemetry - Tracing

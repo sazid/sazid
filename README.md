@@ -4,6 +4,7 @@ Blog: [https://sazid.github.io](https://sazid.github.io)
 
 Some random personal repos:
 
+- [lorust ~ *rust, rhai*](https://github.com/sazid/lorust) - load (http) generator written in rust.
 - [learngrpc ~ *go, python*](https://github.com/sazid/learngrpc) - gRPC with bi-di streams, interceptors, jwt and TLS.
 - [simplebank ~ *go*](https://github.com/sazid/simplebank) - A small implementation of a transaction service to learn about ACID properties of db, gin, sqlc, github actions and token based (paseto, jwt) auth.
 - [mini-redi-rs ~ *rust*](https://github.com/sazid/mini-redis-rs) - a basic
@@ -35,12 +36,17 @@ I mostly work (in order) - backend, tooling, automation and frontend...
 1. Go
 2. Python
 3. JavaScript
+4. Rust
 
 ...with these frameworks/libs:
 
 1. Django and tons of other python libs
-2. jQuery
-3. Preact
+2. Gin
+3. jQuery
+4. Preact
+5. Rhai
+6. Isahc
+7. etc...
 
 ...within these environments:
 

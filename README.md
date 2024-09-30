@@ -4,6 +4,7 @@ Blog: [https://sazid.github.io](https://sazid.github.io)
 
 Some random personal repos:
 
+- [🔥Fireflake ~ *mojo, python*](https://github.com/sazid/fireflake) - implementation of Snowflake ID in Mojo.
 - [lorust ~ *rust, rhai*](https://github.com/sazid/lorust) - load (http) generator written in rust.
 - [learngrpc ~ *go, python*](https://github.com/sazid/learngrpc) - gRPC with bi-di streams, interceptors, jwt and TLS.
 - [simplebank ~ *go*](https://github.com/sazid/simplebank) - A small implementation of a transaction service to learn about ACID properties of db, gin, sqlc, github actions and token based (paseto, jwt) auth.

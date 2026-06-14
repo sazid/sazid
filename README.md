@@ -1,1 +1,3 @@
-https://sazid.github.io/resume.html
+- [~/resume.html](https://sazid.github.io/resume.html)
+- [~/projects.html](https://sazid.github.io/projects.html)
+- [~/](https://sazid.github.io/)
